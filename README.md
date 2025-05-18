@@ -1,7 +1,6 @@
-# NOTE: This project is no longer maintained, check out https://github.com/amari-calipso/UniV
-
-
 ﻿# Sorting Visualizer
+## NOTE: This project is no longer maintained, check out https://github.com/amari-calipso/UniV
+
  A sorting algorithms visualizer written in opal
 
 to run from source, open or compile `SortingVisualizer.opal` using the opal compiler.
