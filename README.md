@@ -1,3 +1,5 @@
+## NOTE: This project is no longer maintained, check out https://github.com/amari-calipso/UniV
+
 ﻿# Sorting Visualizer
  A sorting algorithms visualizer written in opal
 
