@@ -1,8 +1,0 @@
-source: "SortingVisualizer.opal",
-copy: {
-    "resources": folder,
-    "external": folder,
-    "profiles": folder,
-    "threads": folder,
-    "config": folder
-}

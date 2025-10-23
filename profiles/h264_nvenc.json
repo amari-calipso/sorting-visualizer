@@ -1,7 +1,0 @@
-{
-    "codec":   "h264_nvenc",
-    "pix_fmt": "yuv420p",
-    "preset":  "p6",
-    "tune":    "hq",
-    "profile": "high"
-}

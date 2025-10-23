@@ -1,5 +1,0 @@
-pygame_gui==0.6.9
-scipy
-perlin_noise
-sf2_loader
-matplotlib

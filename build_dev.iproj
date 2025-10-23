@@ -1,9 +1,0 @@
-source: "SortingVisualizer_dev.opal",
-copy: {
-    "SortingVisualizer.py": file,
-    "resources": folder,
-    "external": folder,
-    "profiles": folder,
-    "threads": folder,
-    "config": folder
-}

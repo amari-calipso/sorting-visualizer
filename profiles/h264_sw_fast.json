@@ -1,7 +1,0 @@
-{
-    "codec":   "libx264",
-    "pix_fmt": "yuvj420p",
-    "preset":  "veryfast",
-    "tune":    "animation",
-    "profile": "baseline"
-}
